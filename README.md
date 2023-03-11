@@ -5,6 +5,8 @@
 用户只需将该程序放置在游戏配置的 My Games 文件夹下的相应角色文件夹中，并以管理员模式运行即可。  
   
 该工具仅会更改用户正常可访问的配置文件，不涉及读取内存、注入进程等操作。  
+
+在右侧 Release 下载 exe 文件。
   
   
 ![image](https://user-images.githubusercontent.com/85232361/224497118-f25fbbf2-5623-4eac-96b2-9717681f506e.png)  
